@@ -15,6 +15,10 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Escudo do Capitão América criado apenas com HTML e CSS
 
+## 🔖 Layout
+
+Você pode visualizar o projeto através [desse link](https://valtercioj.github.io/capitao-america/).
+
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
